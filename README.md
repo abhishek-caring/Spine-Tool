@@ -12,7 +12,9 @@ The purpose of this tool is to use machine learning techniques for predicting th
 A GUI tool was built to take input details of patients like Sex, BMI and other primary inputs. The doctor can select the initial management used, based on the inputs the model predicts the improvement in all 3 indices based on Management. Further the doctor can change the type of management used and see the difference in the improvement in the indices and find the best suitable management for the particular patient. The tool can assist doctors to select the best management practice that a patient can undergo in order to achieve best improvement results.
 
 **Citing Spine Tool**
-The Spine Tool is an open source tool which can be used for scientific study. Built by **Center for Advanced Research in Imaging, Neuroscience and Genomics (CAARING-Reseach)**.
+
+
+The Spine Tool is an open source tool which can be used for scientific study. Built by **Center for Advanced Research in Imaging, Neuroscience and Genomics (CARING-Reseach)**.
 If you use Spine Tool in a scientific publication, we would appreciate citations to the following:
 1. Dr. Vasantha K Venugopal, Medical Imaging Lead (CARING-Research)
 2. Dr. Gaurav Purohit, (Swai Man Singh Medical College, Jaipur)
