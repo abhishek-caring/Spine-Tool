@@ -16,9 +16,11 @@ A GUI tool was built to take input details of patients like Sex, BMI and other p
 
 The Spine Tool is an open source tool which can be used for scientific study. Built by **Center for Advanced Research in Imaging, Neuroscience and Genomics (CARING-Reseach)**.
 If you use Spine Tool in a scientific publication, we would appreciate citations to the following:
-1. Dr. Vasantha K Venugopal, Medical Imaging Lead (CARING-Research)
-2. Dr. Gaurav Purohit, (Swai Man Singh Medical College, Jaipur)
-3. Abhishek Gupta, ML Engineer (CARING-Research)
+1. Abhishek Gupta, ML Engineer (CARING-Research)
+2. Dr. Vasantha K Venugopal, Medical Imaging Lead (CARING-Research)
+3. Dr. Gaurav Purohit, (Swai Man Singh Medical College, Jaipur)
+4. Dr.
+5. Dr. Harsh Mahajan, Chief Radiologist (Mahajan Imaging)
 
 ![alt text](https://caring-research.com/wp-content/themes/caring/img/caring_logo.png)
 
