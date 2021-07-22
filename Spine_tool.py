@@ -72,29 +72,29 @@ with warnings.catch_warnings():
 
     from sklearn.ensemble import RandomForestClassifier
     # Fitting Random Forest Classification to the Training set
-    filename = 'VAS_withoutM.sav'
+    filename = 'model/VAS_withoutM.sav'
     VAS_withoutM = pickle.load(open(filename, 'rb'))
     warnings.filterwarnings('ignore')
 
-    filename = 'VAS_withM.sav'
+    filename = 'model/VAS_withM.sav'
     VAS_withM = pickle.load(open(filename, 'rb'))
     warnings.filterwarnings('ignore')
 
 
-    filename = 'MOD_withoutM.sav'
+    filename = 'model/MOD_withoutM.sav'
     MOD_withoutM = pickle.load(open(filename, 'rb'))
     warnings.filterwarnings('ignore')
 
-    filename = 'MOD_withM.sav'
+    filename = 'model/MOD_withM.sav'
     MOD_withM = pickle.load(open(filename, 'rb'))
     warnings.filterwarnings('ignore')
 
 
-    filename = 'NCOS_withoutM.sav'
+    filename = 'model/NCOS_withoutM.sav'
     NCOS_withoutM = pickle.load(open(filename, 'rb'))
     warnings.filterwarnings('ignore')
 
-    filename = 'NCOS_withM.sav'
+    filename = 'model/NCOS_withM.sav'
     NCOS_withM = pickle.load(open(filename, 'rb'))
     warnings.filterwarnings('ignore')
 
